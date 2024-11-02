@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "category": "Electronics",
+        "brand": "Brand A",
+        "price": 99.99,
+        "rating": 4.5,
+        "imageUrl": "https://media.wired.com/photos/66abec9ccb172c2e5de763bf/master/w_960,c_limit/Edifier-Stax-Spirit-S5-Headphones-Offwhite-Background-SOURCE-Amazon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "brand": "Brand B",
+        "price": 49.99,
+        "rating": 4.0,
+        "imageUrl": "https://m.media-amazon.com/images/I/81cQGuio4ZL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "brand": "Brand C",
+        "price": 59.99,
+        "rating": 4.2,
+        "imageUrl": "https://www.rebelsport.co.nz/globalassets/2.-rebel-sport/004.-site-assets/inspo/what-to-wear-when-running/running-shoes-image-mob.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Smartphone",
+        "category": "Electronics",
+        "brand": "Brand D",
+        "price": 499.99,
+        "rating": 4.8,
+        "imageUrl": "https://www.honor.com/content/dam/honor/common/product-list/plp-banner/global/honor-magic6-pro/honor-magic6-pro-banner-pc.png"
+    },
+    {
+        "id": 5,
+        "name": "Leather Jacket",
+        "category": "Clothing",
+        "brand": "Brand E",
+        "price": 199.99,
+        "rating": 4.7,
+        "imageUrl": "https://www.voganow.com/cdn/shop/products/BBGJ-1113-01_7.jpg?v=1671019720"
+    }
+]

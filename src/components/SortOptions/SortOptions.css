@@ -1,0 +1,26 @@
+.sort-options {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size: 16px;
+}
+
+.sort-options label {
+    margin-right: 10px;
+    font-weight: bold;
+    color: #333;
+}
+
+.sort-options select {
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+.sort-options select:focus {
+    border-color: #007bff;
+}
